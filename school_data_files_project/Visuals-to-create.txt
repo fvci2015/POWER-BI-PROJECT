@@ -1,0 +1,26 @@
+Preapre Following Visuals
+
+Student Table
+-Total Students
+-Students by Sector (Using Pie Chart)
+-Students by State (Using Map Chart)
+-Students by State (Using Bar Chart)
+-Create a Year column by extracting name from file name
+-Students by Year & Sector (Using line chart)
+-percentage of Students by Year & Sector (Using table)
+-Students by State & School Level
+-Students by sector & gender
+-Students by Sector & School Level
+-Number of Students by Indigenous status
+-Students by Full-time/part-time status
+
+Staff Table
+-Create a Year column by extracting name from file name
+-Total Students
+-Staff by Sector
+-Staff by Gender
+-Staff by School Level
+-Staff by Function
+-Staff by State & Gender
+-Staff by Sector & School Level
+-Staff by Function & Gender
